@@ -150,3 +150,8 @@ border: 0px;
     cursor: pointer;
     transition: 0.4s;
 }
+.message button:hover{
+    background: #5f5f5f;
+    color: aliceblue;
+    transition: 0.4s;
+}
