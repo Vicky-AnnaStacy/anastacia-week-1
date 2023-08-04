@@ -9,3 +9,4 @@
 ## link to live site on GitHub Pages
 - https://Vicky-AnnaStacy.github.io/anastacia-week-1
 ## copyright and license information
+@2023 anastacia

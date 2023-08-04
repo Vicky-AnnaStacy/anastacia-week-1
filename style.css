@@ -90,3 +90,16 @@ h1{
     margin-left: 40;
     text-align: left;
 }
+.contact{
+    width: 100%;
+    height: auto;
+    padding: 75px 0 50px 0;
+    text-align: center;
+    background-color: darkseagreen;
+
+}
+.contact p{
+    margin-bottom: 50px;
+
+}
+.contact-form {}
