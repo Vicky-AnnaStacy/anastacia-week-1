@@ -136,7 +136,7 @@ border: 0px;
     margin-bottom: 20px;
 }
 .message button{
-    color: aliceblue;
+    color:black;
     border: 0;
     border-radius: 5px;
     background: lightcyan;
@@ -152,7 +152,7 @@ border: 0px;
 }
 .message button:hover{
     background: #5f5f5f;
-    color: aliceblue;
+    color: rgb(84, 150, 207);
     transition: 0.4s;
 }
 footer{
