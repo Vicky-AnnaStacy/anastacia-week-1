@@ -155,3 +155,15 @@ border: 0px;
     color: aliceblue;
     transition: 0.4s;
 }
+footer{
+    height: 90px;
+    background-color: black;
+}
+footer.container{
+    display: flex;
+    align-items: center;
+    height: 100;
+}
+.copyright{
+    color: white;
+}
