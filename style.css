@@ -84,3 +84,9 @@ h1{
     justify-content: center;
     flex-flow: wrap;
 }
+.aboutme-text{
+    height: auto;
+    width: 40;
+    margin-left: 40;
+    text-align: left;
+}
