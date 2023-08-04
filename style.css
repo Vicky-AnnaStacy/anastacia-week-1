@@ -75,5 +75,12 @@ h1{
     padding: 40px 50px 70px;
     margin:0 auto ;
     box-shadow:  10px 10px 0px #5f5f5f(0 0 0/40%), -10px -10px 0px #5fd(255 114 114/ 80%);
-    
+
+}
+.aboutme-section {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: wrap;
 }
