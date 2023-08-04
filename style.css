@@ -102,4 +102,22 @@ h1{
     margin-bottom: 50px;
 
 }
-.contact-form {}
+.contact-form {
+    max-width: 800px;
+    display: flex;
+    text-align: left;
+    max-width: 1100px;
+    margin: 0%;
+    color: wheat;
+
+}
+.contact-form label{
+    display: block;
+    margin-bottom: 9px;
+
+}
+.message {
+    display: flex;
+    flex-direction: column;
+    width: 70;
+}
