@@ -61,3 +61,9 @@ hero img{
     max-width: 440px;
     display: block;
 }
+h1{
+    color: black;
+    text-align: center;
+    font-size: large;
+    margin: 30px 0px 100px;
+}
